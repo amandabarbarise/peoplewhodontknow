@@ -1,9 +1,9 @@
 body {
-  Background-color: black;
+  Background-color: lightyellow;
 }
 
 p {
-  color: white;
+  color: Gray;
   margin: 0.0px 0.0px 12.0px 0.0px;
   line-height: 14.0px;
   font: 22.0px Times;
@@ -18,19 +18,22 @@ img {
 }
 
 p.small {
-  line-height: 0.8;
+  line-height: 1.0;
 }
 
 p.big {
-  line-height: 3.0;
+  line-height: 3.5;
 }
 
 p.caption {
-  color: white;
+  color: Gray;
+  h1 {
+  text-align: center;
+}
 }
 
 a {
-  color: white;
+  color: Gray;
 }
 
 
